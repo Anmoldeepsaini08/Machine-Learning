@@ -1,2 +1,3 @@
 # Machine-Learning
-Practice models
+This repository contains the machine learning models which i had used for practicing.
+
