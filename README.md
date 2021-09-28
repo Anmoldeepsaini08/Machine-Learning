@@ -1,5 +1,7 @@
 # Machine-Learning
 # Practice
-This repository contains the machine learning models which i had used for practicing.
-The code is written in python using scikit learn library.
+ 
+ It detect the email you wrote is spam or not.
+ 
+ It uses the Machine learning algorithm to dectect accurately.
 
